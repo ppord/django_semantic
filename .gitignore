@@ -1,0 +1,4 @@
+django_semantic
+.idea
+manage.py
+semantic/migrations
